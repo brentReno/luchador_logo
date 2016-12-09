@@ -49,31 +49,36 @@
   margin-top: -0.05%;
   margin-left: 13.90%;
   height: 50%;
-  animation: fadeIn 1s;
+  animation: fadeIn 1.25s;
 }
 
 .circle-left{
   margin-left: .25%;
   height: 50%;
-  animation: fadeIn 1s;
+  animation: fadeIn 1.25s;
 }
 
 .mask-right{
   margin-top: 1.25%;
   margin-left: 13.10%;
-  height: 45%;
-  animation: slideDown 0.65s ease-out;
+  height: 45.25%;
+  animation: slideDown 0.85s ease-out;
 }
 .mask-left{
   margin-top: 1.25%;
   margin-left: 4.6%;
   height: 45%;
-  animation: slideUp 0.65s ease-out ;
+  animation: slideUp 0.85s ease-out ;
 }
 
 .shadow{
   height:50%;
   margin-top: 0.5%;
   margin-left: 1.5%;
-  animation: slideRight 1s, fadeIn 1s;
+  animation: slideRight 1.25s, fadeIn 1.25s;
+}
+.mask-container{
+  width: 25%;
+  margin: auto;
+  margin-top: 10%;
 }
