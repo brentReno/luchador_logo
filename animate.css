@@ -1,0 +1,33 @@
+/* Setting Initial Positons and Sizes*/
+
+.shadow, .mask-left, .mask-right, .circle-left, .circle-right{
+
+  position: fixed;
+}
+.circle-right{
+  margin-top: -0.05%;
+  margin-left: 13.90%;
+  height: 50%;
+}
+
+.circle-left{
+  margin-left: .25%;
+  height: 50%;
+}
+
+.mask-right{
+  margin-top: 1.25%;
+  margin-left: 13.10%;
+  height: 45%
+}
+.mask-left{
+  margin-top: 1.25%;
+  margin-left: 4.6%;
+  height: 45%
+}
+
+.shadow{
+  height:50%;
+  margin-top: 0.5%;
+  margin-left: 1.5%;
+}
